@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sunnySide-agency-react/static/css/main.004b731e.css",
+    "main.js": "/sunnySide-agency-react/static/js/main.27690dbd.js",
+    "static/media/image-header.jpg": "/sunnySide-agency-react/static/media/image-header.9167cda0c72b56b2cda5.jpg",
+    "static/media/image-gallery-milkbottles.jpg": "/sunnySide-agency-react/static/media/image-gallery-milkbottles.df1d9d8460e873924250.jpg",
+    "static/media/image-graphic-design.jpg": "/sunnySide-agency-react/static/media/image-graphic-design.7ac8bdf0d3df29591a3b.jpg",
+    "static/media/image-photography.jpg": "/sunnySide-agency-react/static/media/image-photography.104cf40b52f66520afb0.jpg",
+    "static/media/image-gallery-sugarcubes.jpg": "/sunnySide-agency-react/static/media/image-gallery-sugarcubes.09b72f4fbfbf08579f9d.jpg",
+    "static/media/image-gallery-orange.jpg": "/sunnySide-agency-react/static/media/image-gallery-orange.373d43f1f42a447ed9a6.jpg",
+    "static/media/image-gallery-cone.jpg": "/sunnySide-agency-react/static/media/image-gallery-cone.461ff4214c3ac822dfff.jpg",
+    "static/media/image-gallery-sugar-cubes.jpg": "/sunnySide-agency-react/static/media/image-gallery-sugar-cubes.fefc3841f885fca27c53.jpg",
+    "static/media/logo-footer.svg": "/sunnySide-agency-react/static/media/logo-footer.97b119f7706788239d9b1c9a61250184.svg",
+    "static/media/logo.svg": "/sunnySide-agency-react/static/media/logo.4271b8992622e4dd1cc7de08466dab06.svg",
+    "index.html": "/sunnySide-agency-react/index.html",
+    "static/media/icon-arrow-down.svg": "/sunnySide-agency-react/static/media/icon-arrow-down.979ef07a7cbb07d35f05bbaa093f7489.svg",
+    "static/media/icon-hamburger-dark.svg": "/sunnySide-agency-react/static/media/icon-hamburger-dark.1b9e78ad5487013c5037231fd4bfc4fc.svg",
+    "static/media/icon-hamburger.svg": "/sunnySide-agency-react/static/media/icon-hamburger.7764b7eb6060edb45161f8b146f1373c.svg",
+    "main.004b731e.css.map": "/sunnySide-agency-react/static/css/main.004b731e.css.map",
+    "main.27690dbd.js.map": "/sunnySide-agency-react/static/js/main.27690dbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.004b731e.css",
+    "static/js/main.27690dbd.js"
+  ]
+}
